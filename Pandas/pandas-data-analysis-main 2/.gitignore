@@ -1,0 +1,12 @@
+# 디렉토리 무시
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+pandas-data-analysis-main/
+jump/project/
+jump/API01/
+jump/game/
+jump/
+myblog/
+rapa310/
+rapa3103/
+rapa311/
